@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.webmotors.apolloturbomobile",
+      "sha256_cert_fingerprints":
+        ["E1:5F:6D:39:66:C0:7A:10:AF:7F:23:0A:16:B3:16:3D:8F:3B:23:4A:FD:71:7A:37:CE:8E:93:F8:11:7A:D4:71"]
+    }
+  }
+]
