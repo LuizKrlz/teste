@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "com.webmotors.apolloturbomobile",
-        "paths": ["/redefinir-senha/*"]
+        "paths": ["*"]
       }
     ]
   }
