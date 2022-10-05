@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "com.webmotors.apolloturbomobile",
+        "appID": "com.luiz.correa.expodeeplink",
         "paths": ["*"]
       }
     ]

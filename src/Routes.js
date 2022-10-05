@@ -10,7 +10,7 @@ export const Routes = () => {
     return (
         <RoutesRouter>
             <Route path="/" element={<Home />} />
-            <Route path="/redefinir-senha/senha" element={<RecoveryPassword />} />
+            <Route path="/recuperar-senha" element={<RecoveryPassword />} />
         </RoutesRouter>
     )
 }
