@@ -1,11 +1,14 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.luiz.correa.expodeeplink",
-      "sha256_cert_fingerprints":
-        ["CA:B9:5B:11:E7:C2:7C:D6:F1:E7:64:DB:B6:FF:7F:5C:FE:C4:C5:75:21:E0:10:A5:7C:6F:87:6C:D1:65:C5:EC"]
+      "package_name": "com.webmotors.portalmaisturbo",
+      "sha256_cert_fingerprints": [
+        "8D:43:66:75:66:0D:7E:E2:61:DD:CE:10:EE:93:12:A8:6D:AE:DC:51:BB:79:EB:4E:0A:8F:46:C8:6E:71:53:AF"
+      ]
     }
   }
 ]
